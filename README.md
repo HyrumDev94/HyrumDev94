@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Hyrum Olschewski
+# Hi, I'm Hyrum Olschewski
 
 I'm a **data scientist** passionate about uncovering insights that drive smarter decisions.  
 My work focuses on cleaning, analyzing, and modeling data using **Python, SQL, and visualization tools**.  
